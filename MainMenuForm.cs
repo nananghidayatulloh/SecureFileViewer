@@ -31,7 +31,9 @@ namespace SecureFileViewer
 
         private void btnViewer_Click(object sender, EventArgs e)
         {
-            
+            ViewerForm viewer = new ViewerForm();
+            viewer.Show();
+            this.Hide();
         }
 
         private void MainMenuForm_FormClosing(object sender, FormClosingEventArgs e)

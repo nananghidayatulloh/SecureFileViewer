@@ -56,3 +56,6 @@ G:\task_pekerjaan\SecureFileViewer\obj\Debug\SecureFileViewer.exe
 G:\task_pekerjaan\SecureFileViewer\obj\Debug\SecureFileViewer.pdb
 G:\task_pekerjaan\SecureFileViewer\obj\Debug\SecureFileViewer.MainMenuForm.resources
 G:\task_pekerjaan\SecureFileViewer\obj\Debug\SecureFileViewer.UploaderForm.resources
+G:\task_pekerjaan\SecureFileViewer\obj\Debug\SecureFileViewer.ViewerForm.resources
+G:\task_pekerjaan\SecureFileViewer\obj\Debug\SecureFileViewer.PasswordDialog.resources
+G:\task_pekerjaan\SecureFileViewer\obj\Debug\SecureFileViewer.PreviewForm.resources
