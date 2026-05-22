@@ -30,3 +30,4 @@ G:\task_pekerjaan\SecureFileViewer\obj\Release\SecureFileViewer.csproj.CoreCompi
 G:\task_pekerjaan\SecureFileViewer\obj\Release\SecureFileViewer.csproj.CopyComplete
 G:\task_pekerjaan\SecureFileViewer\obj\Release\SecureFileViewer.exe
 G:\task_pekerjaan\SecureFileViewer\obj\Release\SecureFileViewer.pdb
+G:\task_pekerjaan\SecureFileViewer\obj\Release\SecureFileViewer.PreviewForm.resources
